@@ -8,4 +8,4 @@
 ## merger.py
 
 	run:
-	python merger.py
+	python merger.py <dirpath> # folder of the splitted files (still needs specific naming)
